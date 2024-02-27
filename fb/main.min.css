@@ -1,0 +1,5 @@
+#nav{padding-right:1.375rem !important}#footer{padding-top:2rem !important}.footer__copyright.footer_copyright{color:#fff !important;font-size: .9em !important;opacity: .7 !important;padding-top: .1rem !important}.footer .footer__decal.footer__partner-logo a{opacity: .2 !important}.footer .footer__decal.footer__partner-logo a:hover{opacity: .4 !important}@media screen and (max-width:768px){.footer .footer__decal.footer__partner-logo{display:contents !important}}img.footer__partner-logo__dark,img.footer__partner-logo__light{width:7.5rem !important;height:auto !important;margin-top:.3em!important}@media screen and (max-width:768px){img.footer__partner-logo__dark,img.footer__partner-logo__light{padding-top:1em !important;width:40% !important}}
+
+/**/
+
+.column{float:left}.left{width:15%;padding-left:0 !important;padding-right:0 !important}.right{width:85%;padding-left:0 !important;padding-right:0 !important}.row:after{content:"";display:table;clear:both}@media screen and (max-width: 600px){.left{padding-bottom:1em !important}}
