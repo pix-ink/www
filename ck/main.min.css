@@ -1,0 +1,109 @@
+#nav{padding-right:1.375rem !important}#footer{padding-top:2rem !important}.footer__copyright.footer_copyright{color:#fff !important;font-size: .9em !important;opacity: .7 !important;padding-top: .1rem !important}.footer .footer__decal.footer__partner-logo a{opacity: .3 !important}.footer .footer__decal.footer__partner-logo a:hover{opacity: .5 !important}@media screen and (max-width:768px){.footer .footer__decal.footer__partner-logo{display:contents !important}}img.footer__partner-logo__dark,img.footer__partner-logo__light{width:7rem !important;height:auto !important;margin-top:.3em!important}@media screen and (max-width:768px){img.footer__partner-logo__dark,img.footer__partner-logo__light{padding-top:1em !important;width:40% !important}}
+
+
+.footer__decal.footer__partner-logo.footer__partner-logo__fixed-size
+
+
+.tbl {
+    display: table;
+    width: 100%
+}
+
+.tbl-container {
+    display: table-row-group
+}
+
+.tblrw {
+    display: table-row
+}
+
+.cel1,
+.cel2,
+.cel3,
+.cel4 {
+    display: table-cell;
+    padding: 1rem 0;
+    text-align: center
+}
+
+.cel5,
+.cel6,
+.cel7,
+.cel8 {
+    display: table-cell;
+    padding: 1rem 0;
+    text-align: center
+}
+
+.cel9,
+.cel10,
+.cel11,
+.cel12 {
+    display: table-cell;
+    padding: 1rem 0;
+    text-align: center
+}
+
+.picture-overlay {
+    background: rgba(255, 255, 255, .4)
+}
+
+.picture-overlay:hover {
+    background: none!important
+}
+
+.grid-gallery.nblaw-o1jhu {
+    background: #fff;
+    padding: .5rem
+}
+
+@media screen and (max-width:768px) {
+    .nblaw-o1jhu .grid-gallery__items-container {
+        display: block!important;
+        width: 70%!important;
+        margin: auto!important
+    }
+}
+
+@media screen and (max-width:768px) {
+    .feature-slide-heading-blurb.heading-background {
+        margin-left: 1vw!important;
+        margin-right: 1vw!important
+    }
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 45px;
+    z-index: 99999;
+    font-size: 18px;
+    border: none;
+    outline: 0;
+    background-color: #e82c2a;
+    color: #fff;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px
+}
+
+#myBtn:hover {
+    background-color: rgba(202, 14, 12, 1)
+}
+
+@media screen and (max-width:760px) {
+    #myBtn {
+        display: none!important
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .block.nblaw-qvxc0.html_block {
+        padding-top:5.5em;
+    }
+}
+
+.nstgc-8m9uz.nsdgc-vgce5.nscgc-a6egy
+
+{display: none;}
